@@ -51,11 +51,5 @@ Bu projede görsel manipülasyonların önüne geçmek için veri görselleştir
 * **Matplotlib & Seaborn** (İleri düzey veri görselleştirme)
 * **KaggleHub** (Verinin doğrudan kaynağından güvenli şekilde indirilmesi)
 
----
 
-## 💻 Projeyi Yerelinizde Çalıştırın
-
-1. Gerekli kütüphaneleri yükleyin:
-   ```bash
-   pip install pandas numpy matplotlib seaborn kagglehub
 
